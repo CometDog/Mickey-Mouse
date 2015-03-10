@@ -1,0 +1,49 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "James Downs",
+    "longName": "Mickey Mouse",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/face.png",
+                "name": "FACE",
+                "type": "png"
+            },
+            {
+                "file": "images/mickeymin.png",
+                "name": "MINUTE",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/mickeybg.png",
+                "name": "BACKGROUND",
+                "type": "png"
+            },
+            {
+                "file": "images/mickeyhour.png",
+                "name": "HOUR",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/mickey.png",
+                "name": "MICKEY",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Mickey",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "264fb754-fb58-44a6-8a46-83062ff4a132",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
